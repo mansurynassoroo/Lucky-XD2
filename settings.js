@@ -106,7 +106,7 @@ OWNER_NAME: process.env.OWNER_NAME || "mansury",
    READ_CMD: process.env.READ_CMD || "false",
 // true if want mark commands as read 
 
-     DEV: process.env.DEV || "256789966218",
+     DEV: process.env.DEV || "255758547182",
 //replace with your whatsapp number    
     
     ANTI_VV: process.env.ANTI_VV || "true",
